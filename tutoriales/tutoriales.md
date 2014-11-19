@@ -7,11 +7,11 @@ A continuación se encuentran los tutoriales que he elaborado en el marco de la 
 
 Estan organizados del más reciente al más antiguo.
 
-1. [Creando una presentación en HTML5 con Reveal](/myblog//tutoriales/tutorial1/)
+1. [Creando una presentación en HTML5 con Reveal](/myblog//tutoriales/tutorial1/) - [Descargar pdf](https://raw.githubusercontent.com/franchescomora/myblog/gh-pages/_docs/Todos%20los%20pasos%20para%20hacer%20una%20presentaci%C3%B3n%20en%20HTML5.pdf)
 
-2. [Creando un blog con Jekyll y hospendandolo en GitHub Pages](/myblog//tutoriales/tutorial2/)
+2. [Creando un blog con Jekyll y hospendandolo en GitHub Pages](/myblog//tutoriales/tutorial2/) - [Descargar pdf](https://raw.githubusercontent.com/franchescomora/myblog/gh-pages/_docs/Todos%20los%20pasos%20para%20hacer%20un%20blog%20con%20jekyll.pdf)
 
-3. [Instalando Markdown (ReText) en Ubuntu](/myblog//tutoriales/tutorial3/)
+3. [Instalando Markdown (ReText) en Ubuntu](/myblog//tutoriales/tutorial3/) 
 
 4. [Instalando Jekyll en Ubuntu](/myblog//tutoriales/tutorial4/)
 

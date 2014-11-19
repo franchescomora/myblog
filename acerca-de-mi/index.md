@@ -2,4 +2,4 @@
 layout: page
 title: Acerca de mí
 --- 
-En esta página irá una breve descripción de mi perfil.
+Soy Franchesco, un estudiante de Maestría en Sistemas de la Universidad Nacional de Colombia. 
